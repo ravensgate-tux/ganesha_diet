@@ -121,7 +121,7 @@ Om Gam Ganapataye Namaha
 🎧 **参考：ガネーシャ真言（Om Gam Ganapataye Namaha） 音声例**  
 ▶️ [YouTubeで聞く](https://www.youtube.com/watch?v=e4GljJzSiAQ)  
 
-📙 **参考図書:チック・シセロ & サンドラ・タバサ・シセロ著『タロット・タリスマン』**
+📙 **参考図書:チック・シセロ & サンドラ・タバサ・シセロ著『タロット・タリスマン』**  
 （原題："The Tarot Talismans"）を参考に、タリスマン構造を簡略化しています。
 
 ---
