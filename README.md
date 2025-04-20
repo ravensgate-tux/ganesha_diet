@@ -118,6 +118,7 @@ Om Gam Ganapataye Namaha
 
 📙 **参考図書:チック・シセロ & サンドラ・タバサ・シセロ著『タロット・タリスマン』**  
 （原題："The Tarot Talismans"）を参考に、タリスマン構造を簡略化しています。
+🏢 [国書刊行会](https://www.kokusho.co.jp/np/isbn/9784336038616/?srsltid=AfmBOoqxt1Ngpu1kYfpXKFjikWIS1wsTS-3qGN7K36J5N1eu0A5E0buv)  
 
 ---
 
