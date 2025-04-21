@@ -122,5 +122,17 @@ Om Gam Ganapataye Namaha
 
 ---
 
+## 🐘 なぜガネーシャなのか？
+
+作家で魔術実践者でもある **Grant Morrison** は、自身の著書 **Pop Magic** の中で次のように述べています。  
+
+“I suggest first beginning with Hermes, the God of Magic, in his variant form as Ganesh.”  
+（まず最初に、魔術の神ヘルメスの変形としてのガネーシャから始めることを私は推奨する。）  
+
+この言葉にあるように、ガネーシャは魔術の最初の一歩を踏み出すのに適した存在 であり、知性・創造性・障害除去・実行力といった側面を持っています。  
+Open Source Witchcraft では、このように実用的で象徴的な意味を持つ存在を適材適所で活用するアプローチを取っています。  
+
+---
+
 © 2025 Ravensgate-Tux  
 この文書は [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ja) にて公開されています。
